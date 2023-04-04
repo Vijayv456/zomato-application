@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zomato-application/static/css/main.3231f438.css",
-    "main.js": "/zomato-application/static/js/main.f0f7b410.js",
+    "main.css": "/zomato-application/static/css/main.265e2d30.css",
+    "main.js": "/zomato-application/static/js/main.f55398c3.js",
     "static/media/sshydrabriyani.avif": "/zomato-application/static/media/sshydrabriyani.9903b8fa6e71e5e7358c.avif",
     "static/media/zomato-homepage-image.avif": "/zomato-application/static/media/zomato-homepage-image.ff69443aa67948966dea.avif",
     "static/media/Hcoll2.avif": "/zomato-application/static/media/Hcoll2.45bc18049c6480abb43c.avif",
@@ -17,7 +17,6 @@
     "static/media/shreemithai.avif": "/zomato-application/static/media/shreemithai.0366e45a72c10a7e056b.avif",
     "static/media/samco.avif": "/zomato-application/static/media/samco.f1647b9055691006080e.avif",
     "static/media/meatandeat.avif": "/zomato-application/static/media/meatandeat.b7587fdcf1c24f70ff68.avif",
-    "static/media/Hc1.avif": "/zomato-application/static/media/Hc1.2eb1a0c9e51f58fb3319.avif",
     "static/media/gangasweets.avif": "/zomato-application/static/media/gangasweets.842db0d04bdd7686844e.avif",
     "static/media/Chicken.webp": "/zomato-application/static/media/Chicken.3155a7f5316112970acd.webp",
     "static/media/Noodles.avif": "/zomato-application/static/media/Noodles.d56a664db0ccd45e9131.avif",
@@ -31,7 +30,6 @@
     "static/media/Hcoll1.avif": "/zomato-application/static/media/Hcoll1.515dc065c61ccd4fe1e2.avif",
     "static/media/kfc-chicken.avif": "/zomato-application/static/media/kfc-chicken.f11b23e141e461f04243.avif",
     "static/media/pizza.avif": "/zomato-application/static/media/pizza.ef65105e13f937410231.avif",
-    "static/media/Hc2.avif": "/zomato-application/static/media/Hc2.10b1d25bbae228c61160.avif",
     "static/media/Panner.avif": "/zomato-application/static/media/Panner.4e4977e227b9944e7873.avif",
     "static/media/thali.avif": "/zomato-application/static/media/thali.359a5fb85c1757ac5077.avif",
     "static/media/the-red-box.avif": "/zomato-application/static/media/the-red-box.e9b2d283fe6e1914fc27.avif",
@@ -40,13 +38,11 @@
     "static/media/fried Rice.avif": "/zomato-application/static/media/fried Rice.100fe939b40f1e080c4f.avif",
     "static/media/Cake.avif": "/zomato-application/static/media/Cake.8ae2dd0361fb32dc3a93.avif",
     "static/media/Dosa.avif": "/zomato-application/static/media/Dosa.ceeec3ad9a2a782a0edb.avif",
-    "static/media/zomatoiconwhite.avif": "/zomato-application/static/media/zomatoiconwhite.1ae65b752fea00650c30.avif",
     "static/media/sff.avif": "/zomato-application/static/media/sff.5fd96521c1faa0eb6c84.avif",
     "static/media/zomatoicon.avif": "/zomato-application/static/media/zomatoicon.ecef7a1c53f771912f48.avif",
     "static/media/kfc.avif": "/zomato-application/static/media/kfc.33b92bc39820d46a83d6.avif",
     "static/media/nvvb.avif": "/zomato-application/static/media/nvvb.4497e5f503962827805b.avif",
     "static/media/sshb.avif": "/zomato-application/static/media/sshb.f9d213985ff30ca5b76b.avif",
-    "static/media/Hc3.avif": "/zomato-application/static/media/Hc3.b9298cbf55cdc4e35e32.avif",
     "static/media/hsb.avif": "/zomato-application/static/media/hsb.fe5f4d80f4b735bb0fc1.avif",
     "static/media/a2b.avif": "/zomato-application/static/media/a2b.917f4099d0191c74b14f.avif",
     "static/media/beforetabimg1.webp": "/zomato-application/static/media/beforetabimg1.4115310d2063084c5d0f.webp",
@@ -59,11 +55,11 @@
     "static/media/nightlife-c2.webp": "/zomato-application/static/media/nightlife-c2.f6e8a2fc0384c70b7151.webp",
     "static/media/beforetabimg2.webp": "/zomato-application/static/media/beforetabimg2.3306d14ad4b6aa31f90b.webp",
     "index.html": "/zomato-application/index.html",
-    "main.3231f438.css.map": "/zomato-application/static/css/main.3231f438.css.map",
-    "main.f0f7b410.js.map": "/zomato-application/static/js/main.f0f7b410.js.map"
+    "main.265e2d30.css.map": "/zomato-application/static/css/main.265e2d30.css.map",
+    "main.f55398c3.js.map": "/zomato-application/static/js/main.f55398c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3231f438.css",
-    "static/js/main.f0f7b410.js"
+    "static/css/main.265e2d30.css",
+    "static/js/main.f55398c3.js"
   ]
 }
